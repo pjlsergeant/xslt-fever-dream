@@ -3,9 +3,11 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     version="2.0" >
     <!--
-         These three templates are *NOT* my own work. Instead, they've been taken from
-         http://stackoverflow.com/questions/6696382/xslt-how-to-convert-xml-node-to-string-
-         The comments however /have/ been added by me
+        These three templates in this file are *NOT* my own work, unlike the
+        rest of the repo. Instead, they've been taken from
+        http://stackoverflow.com/questions/6696382/xslt-how-to-convert-xml-node-to-string-
+
+        The comments however /have/ been added by me
     -->
 
     <!-- Match all nodes -->
