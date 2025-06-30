@@ -8,6 +8,6 @@ XSLT is a great general-purpose programming language! Here are some examples I h
 
 The repo of course includes tests, also written in XSLT:
 
-[./test-logic.xsl](./test-logic.xsl), [./test-graph.xsl](./test-graph.xsl), and [./text-map.xsl](./text-map.xsl) can all be run with Saxon, using something like:
+[./test-logic.xsl](./test-logic.xsl), [./test-graph.xsl](./test-graph.xsl), and [./test-map.xsl](./test-map.xsl) can all be run with Saxon, using something like:
 
 `echo "<dummy/>" | saxon -xsl:test-logic.xsl -it:start -s:-`
